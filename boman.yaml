@@ -5,7 +5,7 @@ SAST:
   language: semgrep
 SCA:
   language: java
-  DAST:
-    type: "WEB" 
-    URL: "https://demo.testfire.net/"
+DAST:
+  type: "WEB" 
+  URL: "https://demo.testfire.net/"
 Secret_Scan: true
